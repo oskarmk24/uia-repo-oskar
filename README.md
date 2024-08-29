@@ -2,4 +2,4 @@
 UiA
 macOS Sonoma Version 14.6.1
 oskarmk24
-test
+git version 2.46.0
